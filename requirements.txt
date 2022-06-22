@@ -1,4 +1,4 @@
 opencv-python==3.4.11.43
-numpy==1.19.1
+numpy==1.22.0
 pyqt5==5.15.2
 requests==2.25.1
